@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Actividad18</string>
+    <string name="Producto">Ingresa Producto</string>
+    <string name="Precio">Ingresa Precio</string>
+    <string name="Boton1">Guardar</string>
+    <string name="Boton2">Agregar</string>
+    <string name="Boton3">Borrar</string>
+    <string name="Boton4">Mostrar</string>
+    <string name="Boton5">Modificar</string>
+</resources>
